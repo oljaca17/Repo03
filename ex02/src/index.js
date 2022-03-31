@@ -6,6 +6,6 @@ function main() {
     /* this is my second comment*/
 }
 
-main();
+console.log(main());
 module.exports = main;
 
